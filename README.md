@@ -142,6 +142,6 @@ This tool is for **informational and educational purposes only**. It is **not** 
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Shreya Gupta]**  
 VIT Bhopal University  
-BYOP Submission — [Course Name]
+BYOP Submission — [Programming in Java]
