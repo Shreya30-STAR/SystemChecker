@@ -1,11 +1,11 @@
 # SymptomChecker
-# 🩺 Symptom Checker & Health Advisor
+# 🩺 Smart Symptom Analyzer & Health Assistant
 
-A Java console application that helps users identify possible medical conditions based on their symptoms and provides first-aid advice. Built as a rule-based expert system using core Java concepts.
+A Java based console application designed to analyze user-provided symptoms and suggest possible health conditions along with basic precautionary advice. The system uses a rule-based approach to compare symptoms with predefined medical data and generate ranked results.
 
 ---
 
-## 📌 Problem Statement
+## 📌 Problem Overview
 
 In many parts of India, especially in semi-urban and rural areas, people lack easy access to basic medical guidance. A first-time symptom often causes panic or is dangerously ignored. This tool bridges that gap by giving users immediate, structured health information based on their symptoms — making it clear when they need to see a doctor urgently.
 
